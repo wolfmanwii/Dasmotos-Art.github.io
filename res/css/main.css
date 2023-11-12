@@ -1,0 +1,40 @@
+*{
+    font-family: Helvetica;
+}
+
+.topbanner{
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("../img/pattern.jpeg");
+    margin:3rem 0 ;
+}
+
+.labelbanners{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    margin: 1rem 0;
+}
+
+#brushesbanner{
+    background-color: mediumspringgreen;
+}
+
+#framesbanner{
+    background-color: lightcoral;
+}
+
+#paintsbanner{
+    background-color: skyblue;
+}
+
+strong{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
